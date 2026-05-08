@@ -168,23 +168,20 @@ I think like a:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tn0127&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tn0127&layout=compact&theme=tokyonight&hide_border=true&border_radius=16"/>
-
-</div>
-
----
-
 # 🔥 Contribution Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Tn0127&theme=tokyonight&hide_border=true&border_radius=16"/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 </div>
 
