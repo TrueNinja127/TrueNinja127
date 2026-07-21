@@ -1,11 +1,11 @@
 <div align="center">
 
-# ⚔️ Tn0127 — True Ninja
+# ⚔️ True Ninja
 
 ### AI SaaS Engineer • Technical Product Builder • Startup Technology Partner
 
 <p align="center">
-  <a href="https://github.com/Tn0127">
+  <a href="https://github.com/TrueNinja127">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+AI+SaaS+Products;Fast+MVPs+That+Actually+Scale;React+%7C+Next.js+%7C+Node.js+%7C+AI;Reliable+Technical+Partner+for+Startups;Clean+Architecture+%2B+High-Performance+Systems" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tn0127&style=for-the-badge&color=0ea5e9"/>
+  <img src="https://komarev.com/ghpvc/?username=TrueNinja127&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 </div>
@@ -172,7 +172,7 @@ I think like a:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tn0127&theme=tokyonight&hide_border=true&border_radius=16"/>
+<img src="https://streak-stats.demolab.com?user=TrueNinja127&theme=tokyonight&hide_border=true&border_radius=16"/>
 
 <p align="center">
   <picture>
@@ -223,7 +223,7 @@ mission:
 # 🌐 Connect
 
 <p align="left">
-  <a href="https://github.com/Tn0127">
+  <a href="https://github.com/TrueNinja127">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
