@@ -6,12 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/TrueNinja127">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+AI+SaaS+Products;Fast+MVPs+That+Actually+Scale;React+%7C+Next.js+%7C+Node.js+%7C+AI;Reliable+Technical+Partner+for+Startups;Clean+Architecture+%2B+High-Performance+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+AI+SaaS+Products;Fast+MVPs+That+Actually+Scale;React+%7C+Next.js+%7C+Node.js+%7C+AI;Flutter+%7C+React+Native+%7C+Mobile+Expert;Reliable+Technical+Partner+for+Startups;Clean+Architecture+%2B+High-Performance+Systems" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20SaaS%20Developer-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-0F172A?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Available%20Now-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVP%20to%20Scale-2563EB?style=for-the-badge"/>
 </p>
@@ -26,7 +27,7 @@
 
 # 🧠 About Me
 
-I help founders and startups transform ambitious ideas into **real, scalable, production-ready AI SaaS products**.
+I help founders and startups transform ambitious ideas into **real, scalable, production-ready AI SaaS products** — across **web and mobile**.
 
 Not prototypes.  
 Not fragile demos.  
@@ -39,6 +40,7 @@ I specialize in building systems that are:
 - 📈 Built for scale
 - 🧩 Cleanly architected
 - 🚀 Ready for real users
+- 📱 Cross-platform native experiences
 
 I work with a strong ownership mindset and approach every product like a long-term technical partner — not just a developer completing tasks.
 
@@ -63,6 +65,21 @@ I work with a strong ownership mindset and approach every product like a long-te
 </td>
 <td width="50%">
 
+### 📱 Mobile Apps
+- Cross-Platform (iOS & Android)
+- Real-Time Communication
+- Video/Voice Calling
+- In-App Chat & Messaging
+- Push Notifications
+- Offline-First Apps
+- Mobile AI Assistants
+- App Store/Play Store Deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🏗️ Production Systems
 - Startup MVPs
 - Internal Tools
@@ -72,6 +89,19 @@ I work with a strong ownership mindset and approach every product like a long-te
 - REST & GraphQL APIs
 - Scalable Backend Systems
 - Cloud Infrastructure
+
+</td>
+<td width="50%">
+
+### 🔌 Integrations & Services
+- Payment Processing
+- Real-Time Data Sync
+- File Storage & Management
+- Email & SMS Services
+- Analytics & Monitoring
+- Third-Party API Integration
+- Social Authentication
+- Location-Based Services
 
 </td>
 </tr>
@@ -89,8 +119,24 @@ I work with a strong ownership mindset and approach every product like a long-te
 
 ```txt
 React • Next.js • TypeScript • JavaScript • Vue.js • AngularJS
-React Native • Redux • Tailwind CSS • Three.js • WebGL
-Material UI • Bootstrap • HTML5 • CSS3
+Redux • Tailwind CSS • Three.js • WebGL • Material UI • Bootstrap
+HTML5 • CSS3 • Responsive Design • PWA
+```
+
+---
+
+## 📱 Mobile App Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,swift,dart,firebase,supabase" />
+</p>
+
+```txt
+Flutter • React Native • Swift • Dart
+Firebase (Auth, Firestore, Cloud Functions, Storage)
+Supabase • Agora (Video/Voice Calling)
+Push Notifications • Offline Storage • Native Modules
+App Store • Google Play • TestFlight • App Distribution
 ```
 
 ---
@@ -105,6 +151,7 @@ Material UI • Bootstrap • HTML5 • CSS3
 Node.js • NestJS • Python • Django • Flask • FastAPI
 REST APIs • GraphQL • Authentication Systems
 Background Workers • API Architecture • Scalable Services
+WebSockets • Real-Time Communication
 ```
 
 ---
@@ -117,8 +164,9 @@ Background Workers • API Architecture • Scalable Services
 
 ```txt
 PostgreSQL • MySQL • MongoDB • Firebase • Supabase
-AWS • Azure • GCP • Docker • Kubernetes • CI/CD
-Nginx • Apache • Vercel • DynamoDB • Oracle • Qdrant
+AWS (EC2, S3, Lambda, RDS) • Azure • GCP
+Docker • Kubernetes • CI/CD • Nginx • Apache
+Vercel • DynamoDB • Oracle • Qdrant • Redis
 ```
 
 ---
@@ -132,6 +180,7 @@ I believe great software is built when:
 - Architecture supports future growth
 - Communication stays clear and proactive
 - Products are built with long-term thinking
+- Mobile and web experiences feel unified
 
 My goal is always to create systems that are maintainable, scalable, and enjoyable to work on.
 
@@ -182,7 +231,6 @@ I think like a:
   </picture>
 </p>
 
-
 </div>
 
 ---
@@ -191,7 +239,9 @@ I think like a:
 
 ```yaml
 currently_building:
-  - AI SaaS Platforms
+  - AI SaaS Platforms (Web & Mobile)
+  - Cross-Platform Mobile Apps
+  - Real-Time Communication Apps
   - Intelligent Automation Systems
   - Startup MVP Infrastructure
   - High-Performance Web Applications
@@ -201,6 +251,8 @@ currently_learning:
   - Distributed Systems
   - Scalable AI Architecture
   - Vector Search Systems
+  - Mobile AI Integration
+  - AR/VR Technologies
 
 mission:
   Build world-class products that users genuinely love.
@@ -217,6 +269,8 @@ mission:
 ✅ Reliable delivery and ownership  
 ✅ Long-term technical thinking  
 ✅ Easy and collaborative workflow  
+✅ Full-stack + mobile expertise in one partner  
+✅ Seamless web-mobile integration  
 
 ---
 
